@@ -16,7 +16,7 @@
 
 随机的意思是：汉字的位置是随机的，但尽量不重叠；汉字的字体是随机的；汉字的颜色是深色随机的；汉字的旋转是随机角度；图片背景是随机的。
 
-![Image example](/image/00001.png)
+![Image example](/image/00000.png)
 
 标签生成在本目录下的pos.csv文件中
 
@@ -32,7 +32,7 @@ top, left, right, bottom 表示这个汉字的位置，是这个汉字的边框�
 
 同样，汉字的字体是随机的；汉字的颜色是深色随机的；汉字的旋转是随机角度。
 
-![Image example](/textImage/00001.png)
+![Image example](/textImage/00000.png)
 
 标签生成在本目录下的textImageLabel.txt中
 
